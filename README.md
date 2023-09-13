@@ -1,6 +1,7 @@
-Crypto Сurrency watcher
+Test project Crypto Сurrency watcher for Exlab
 
-Написать простой REST-сервис просмотра котировок криптовалют
+Задание:
+"Написать простой REST-сервис просмотра котировок криптовалют"
 
    Функциональность
 

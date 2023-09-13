@@ -1,0 +1,12 @@
+databaseChangeLog:
+  - changeSet:
+      id: Dev-1
+      author: Potapenko
+
+  - include:
+      file: db/changeLog/changeSet/DDL/001_create_table_coins.sql
+  - include:
+      file: db/changeLog/changeSet/DDL/002_create_table_users.sql
+
+  - include:
+      file: db/changeLog/changeSet/DML/001_insert_data_coins.sql
